@@ -10,9 +10,11 @@
  */
 
 CHIP And {
-    IN a, b;
-    OUT out;
+    IN a=IN, b=IN;
+    OUT out=OUT;
 
     PARTS:
     // Put your code here:
+    Nand(a=a,b=b,out=AnandB);
+    Not(in=AnandB,out=out);
 }
