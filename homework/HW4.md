@@ -73,3 +73,4 @@ CHIP ALU {
    Not(in=o2,out=zr);
 }
 ```
+# ![image](4.jpg)

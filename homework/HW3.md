@@ -69,3 +69,4 @@ CHIP Inc16 {
    Add16(a=in,b[0]=true,b[1..15]=false,out=out);
 }
 ```
+# ![image](3.jpg)
