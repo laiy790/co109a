@@ -28,4 +28,4 @@ CHIP PC {
     Register(in=outre,load=true,out=PC,out=out);
 }
 ```
-# ![image](4.jpg)
+# ![image](7.jpg)

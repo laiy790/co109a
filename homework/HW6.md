@@ -99,4 +99,4 @@ CHIP RAM16K {
     Mux4Way16(a=r0,b=r1,c=r2,d=r3,sel=address[12..13],out=out);
 }
 ```
-# ![image](4.jpg)
+# ![image](6.jpg)
